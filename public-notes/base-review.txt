@@ -1,0 +1,8 @@
+Dream Ledger / Base review note
+
+This repository contains public project proof for a Base dApp.
+Build ID: 6a08030ebc175abcdd5651cb
+Builder Code: bc_6j4s58ed
+Live Demo: https://dream-ledger.vercel.app
+
+No private operational material is stored in this note.
